@@ -71,3 +71,5 @@ What is the purpose of using this method? It reduces manual typing and manual se
   instead of opening up a spreadsheet.
 - Look into whether there is a current solution that connects Notion to this
   particular CRM already to avoid doing unnecessary work.
+
+### To the recruiters: Thank you for this opportunity. If you are unable to find the code then don't worry I will be pasting my solution by the end of this week till then I have stated my overall plan, hope you like. Have a nice day :)
