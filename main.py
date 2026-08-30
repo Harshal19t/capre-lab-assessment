@@ -4,7 +4,7 @@ logic: read the leads, clean them up, group duplicates, and flag anything
 that needs a human to look at it.
 
 Run it like this:
-    python simple_pipeline.py notion-qualified-accounts-w34.csv
+    python main.py notion-qualified-accounts-w34.csv
 """
 
 import csv
